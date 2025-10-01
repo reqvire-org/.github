@@ -6,7 +6,7 @@
   <br>Reqvire
 </h1>
   <p align="center">
-    The AI-Native Requirements As A Code framework for Modern Engineering Teams
+    **The AI-Native Requirements As A Code framework for Modern Engineering Teams**
     <br />
   </p>
   <p align="center">
