@@ -7,7 +7,7 @@
 </h1>
   <p align="center">
     <br />
-    <strong>Architecturing And Requirements As A Code framework for Modern Engineering Teams</strong>
+    <strong>Architecture And Requirements As A Code framework for Modern Engineering Teams</strong>
     <br />
   </p>
   <p align="center">
