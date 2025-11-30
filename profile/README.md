@@ -7,7 +7,7 @@
 </h1>
   <p align="center">
     <br />
-    <strong>Architecture And Requirements As A Code framework for Modern Engineering Teams</strong>
+    <strong>Git versioned requirements as context framework for modern engineering teams.</strong>
     <br />
   </p>
   <p align="center">
